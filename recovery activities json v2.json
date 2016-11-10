@@ -13,7 +13,7 @@
     {"id":"9","question":"How many hours per day?","type":"radio", "answers":["0.5","1","1.5","2","2.5","3","3.5","4","4.5","5","5.5","6+"], "units":""},
     {"id":"10","question":"How many days per week?","type":"radio", "answers":["1","2","3","4","5","6","7"], "units":""},
     {"id":"11","question":"Did you watch TV?","type":"radio", "answers":["yes","no"], "units":""},
-    {"id":"12","q":"How many hours per day?","type":"radio", "answers":["0.5","1","1.5","2","2.5","3","3.5","4","4.5","5","5.5","6+"], "units":""},
+    {"id":"12","question":"How many hours per day?","type":"radio", "answers":["0.5","1","1.5","2","2.5","3","3.5","4","4.5","5","5.5","6+"], "units":""},
     {"id":"13","question":"How many days per week?","type":"radio", "answers":["1","2","3","4","5","6","7"], "units":""},
     {"id":"14","question":"Did you use your cell phone for anything other than phone calls? (e.g. texting, social media, apps, etc.)","type":"radio", "answers":["yes","no"], "units":""},
     {"id":"15","question":"How many hours per day?","type":"radio", "answers":["0.5","1","1.5","2","2.5","3","3.5","4","4.5","5","5.5","6+"], "units":""},
